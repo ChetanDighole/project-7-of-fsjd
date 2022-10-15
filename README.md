@@ -18,6 +18,8 @@ sir from ***Ineuron***.
 - Image placement
 - CSS flex property
 ***
+[Deployed Link](https://project7-fsjd.netlify.app/)
+***
 ## Feedback
 
 If you have any feedback, please reach out to me at [twitter](https://twitter.com/codewithchetan)
