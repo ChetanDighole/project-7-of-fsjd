@@ -22,7 +22,7 @@ sir from ***Ineuron***.
 ***
 ## Feedback
 
-If you have any feedback, please reach out to me at [twitter](https://twitter.com/codewithchetan)
+If you have any feedback, please reach out to me at [twitter](https://twitter.com/ChetanDighole)
 ***
 
 ## Screenshots
